@@ -1,0 +1,12 @@
+.pic{
+    width: 35%;
+    height: 30vh;
+}
+.x{
+    height: 30vh;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 90vh;
+    margin-top: 2px;
+}
